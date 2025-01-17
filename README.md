@@ -20,8 +20,8 @@
 
 1. **Clone the repository:**
 
-git clone https://github.com/Sebastian14Vidales/expenses-control.git
-cd control-gastos-contextAPI
+- git clone https://github.com/Sebastian14Vidales/expenses-control.git
+- cd control-gastos-contextAPI
 
 2. **Install dependencies:**
 
