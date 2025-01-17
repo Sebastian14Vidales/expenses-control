@@ -35,14 +35,14 @@ Visit [http://localhost:3000/](http://localhost:3000/)
 
 ## 📂 Project Structure
 
-###src/ 
-###├── 📦 components/      # Reusable UI components
-###├── 🗂️ context/         # Context API state management
-###├── 🗃️ data/            # Static and dynamic data handling
-###├── 🛠️ helpers/         # Utility helper functions
-###├── 🛠️ hooks/           # Custom hooks
-###└── 🔄 reducers/        # State reducers for Context API
-###└── 📐 types/           # TypeScript type definitions
+### src/ 
+### ├── 📦 components/      # Reusable UI components
+### ├── 🗂️ context/         # Context API state management
+### ├── 🗃️ data/            # Static and dynamic data handling
+### ├── 🛠️ helpers/         # Utility helper functions
+### ├── 🛠️ hooks/           # Custom hooks
+### └── 🔄 reducers/        # State reducers for Context API
+### └── 📐 types/           # TypeScript type definitions
 
 ## 🤝 Contributing
 1. Fork the repository.
